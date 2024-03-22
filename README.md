@@ -1,4 +1,5 @@
 # random-programming
 ## TODO
-[] write transformer from scratch
+[] write transformer from scratch 
+
 [] tutorial about gradient descent
